@@ -96,7 +96,7 @@ const ai = new GoogleGenerativeAI({
 npm run dev
 ```
 
-Open your browser at [http://localhost:5173](http://localhost:5173)
+Open your browser at [gemini-clone](http://localhost:5173)
 
 ---
 
@@ -142,13 +142,8 @@ Add a condition in Context to avoid pushing duplicate prompts.
 ## 🧑‍💻 Author
 
 **Ashish Narayan Tellakula**  
-Frontend Developer | AI & Web Enthusiast
+Software Developer | AI & Web Enthusiast
 
----
-
-## 📄 License
-
-This project is open-source under the MIT License.
 
 ---
 
