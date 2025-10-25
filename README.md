@@ -96,7 +96,6 @@ const ai = new GoogleGenerativeAI({
 npm run dev
 ```
 
-Open your browser at [gemini-clone](http://localhost:5173)
 
 ---
 
