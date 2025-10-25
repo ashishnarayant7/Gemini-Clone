@@ -2,7 +2,7 @@
 import { GoogleGenerativeAI } from "@google/generative-ai"; 
 
 // 1. Initialize the Gemini client with your API key
-const genAI = new GoogleGenerativeAI("YOUR_API_KEY"); 
+const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 
 let chat = null;
 
